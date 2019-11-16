@@ -1,4 +1,4 @@
-name := "fs2scala"
+name := "fs2sandbox"
 
 version := "0.1"
 
